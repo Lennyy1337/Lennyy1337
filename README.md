@@ -6,7 +6,7 @@
 
 ### Playing spotify
 
-[<img src="https://now-playing-Lennyy.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8z84sdzmvrfls3giimc8xjkom)
+[<img src="https://now-playing-Lennyy.vercel.app/api/spotify-playing" alt="Lennyy Spotify Playing" width="350" />](https://open.spotify.com/user/8z84sdzmvrfls3giimc8xjkom)
 
 
 <details>
