@@ -15,6 +15,6 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=quaccer&show_icons=true&hide_border=true" />
 
 </details>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joemamahacker&show_icons=true&locale=en&layout=compact" alt="joemamahacker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quaccer&show_icons=true&locale=en&layout=compact" alt="joemamahacker" /></p>
 
 
